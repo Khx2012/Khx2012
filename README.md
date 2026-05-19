@@ -13,7 +13,7 @@ I'm a high school student diving into the world of programming with enthusiasm a
 ## 💻 What I'm Learning
 
 - **Fundamentals**: Core programming concepts and algorithms
-- **Python**: My primary language as I build my foundation
+- **Python**: My primary language but also trying to learn C++
 - **Problem-Solving**: Building logical thinking and debugging skills
 - **Open Source**: Contributing to projects and learning from the community
 - **Game Tools**: Working with game modification, editing, and download utilities
@@ -22,7 +22,7 @@ I'm a high school student diving into the world of programming with enthusiasm a
 
 ## 🚀 Current Focus
 
-- 📚 Mastering Python fundamentals
+- 📚 Mastering Python
 - 🎮 Building tools for gaming (game editors, download utilities, mod tools)
 - 🔨 Creating small projects to practice concepts
 - 🤝 Engaging with the developer community
@@ -38,7 +38,7 @@ Check out my repositories to see what I'm working on! Each project represents a 
 
 ## 🛠️ Technologies
 
-- **Languages**: Python 🐍
+- **Languages**: Python, C++ (learning it)
 - **Interests**: Game development tools, scripting, automation
 - **Always Learning**: Open to exploring complementary technologies!
 
@@ -50,6 +50,7 @@ I'd love to connect with other developers, get feedback on my projects, and lear
 
 - 📧 [Email](mailto:khaledasalameh@gmail.com)
 - 💻 GitHub: [@Khx2012](https://github.com/Khx2012)
+-  (◕‿◕) Discord: khaledx2012
 
 ---
 
