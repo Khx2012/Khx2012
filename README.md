@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Khalid
 
-Welcome to my GitHub profile! I'm a passionate **newcomer to programming** on an exciting journey of learning and growth. I'm dedicated to building solid fundamentals and exploring the world of software development.
+im just a new coder who likes to program video game mods, tools, and stuff.
 
 ---
 
@@ -13,7 +13,7 @@ I'm a high school student diving into the world of programming with enthusiasm a
 ## 💻 What I'm Learning
 
 - **Fundamentals**: Core programming concepts and algorithms
-- **Python**: My primary language but also trying to learn C++
+- **langauge** Python and C++
 - **Problem-Solving**: Building logical thinking and debugging skills
 - **Open Source**: Contributing to projects and learning from the community
 - **Game Tools**: Working with game modification, editing, and download utilities
@@ -32,7 +32,7 @@ I'm a high school student diving into the world of programming with enthusiasm a
 
 ## 📂 My Repositories
 
-Check out my repositories to see what I'm working on! Each project represents a learning opportunity and a step forward in my programming journey. I'm especially focused on game-related tools and utilities.
+Check out my repositories to see what im working on. Each repo is a milestone in my programming journey and it reflects my dedication towards coding.
 
 ---
 
@@ -62,7 +62,7 @@ I'd love to connect with other developers, get feedback on my projects, and lear
 
 ## 🌟 Fun Fact
 
-May the Force be with you! ⚔️ I'm a huge Star Wars fan—and yes, I aspire to create game tools as cool as lightsaber effects! 
+May the Force be with you! ⚔️ I'm a huge Star Wars fan—and yes, I want to create game tools as cool as lightsaber effects! 
 
 ---
 
