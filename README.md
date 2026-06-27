@@ -6,7 +6,7 @@ im just a new coder who likes to program video game mods, tools, and stuff.
 
 ## 🌱 About Me
 
-I'm a high school student diving into the world of programming with enthusiasm and curiosity. Beyond coding, I'm passionate about video games and love helping others troubleshoot gaming issues—whether it's bugs, download problems, or game errors. I bring a creative approach to problem-solving and I'm committed to learning and growing as a developer.
+im a high school kid who likes coding especially fixing video games cuz the problems are so insane and the help centers of the games are too lazy to do anything so i wanna help with anything if it was downloading, fixing, or editing a game im on it.
 
 ---
 
