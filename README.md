@@ -40,7 +40,7 @@ Check out my repositories to see what im working on. Each repo is a milestone in
 
 - **Languages**: Python, C++ (learning it)
 - **Interests**: Game development tools, scripting, automation
-- **Always Learning**: Open to exploring complementary technologies!
+- **Always Learning**: Open to exploring new technologies!
 
 ---
 
